@@ -24,7 +24,7 @@ def validate_login():
         username_entry.delete(0, tk.END)
         password_entry.delete(0, tk.END)
 
-# Function to submit data to MySQL
+# Function to submit data to MySQL..
 def submit_data():
     try:
         # Connect to MySQL database
